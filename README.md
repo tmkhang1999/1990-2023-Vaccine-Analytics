@@ -53,7 +53,7 @@ In each year, there are three dataset files:
 
 3. VAERSSYMPTOMS.csv: contains details about reported symptoms, including onset date, duration, severity, and a list of symptoms for each adverse event.
 ## Results<a name="results"></a>
-video
+https://user-images.githubusercontent.com/74235084/224438080-453d8248-2fe8-4df3-bb68-e4a977bc4a52.mp4
 
 ## Acknowledgements<a name="licensing"></a>
 We would like to acknowledge the CDC for providing the VAERS dataset and making it available to the public for research purposes.
