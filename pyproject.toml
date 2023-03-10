@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "1990-2023-vaccine-analytics"
+version = "0.1.0"
+description = ""
+authors = ["MINH KHANG TRAN <74235084+tmkhang1999@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "1990_2023_vaccine_analytics"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+pandas = "^1.5.3"
+matplotlib = "^3.7.1"
+plotly = "^5.13.1"
+dash = "^2.8.1"
+seaborn = "^0.12.2"
+mlxtend = "^0.21.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
